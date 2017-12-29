@@ -11,9 +11,6 @@ import json
 import os
 import urllib
 
-book_urls_path = 'book_urls.json'
-juan_urls_path = 'juan_urls.json'
-document_folder_path = 'result'
 
 
 class TOM61(scrapy.Spider):
